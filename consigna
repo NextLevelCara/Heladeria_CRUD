@@ -1,0 +1,21 @@
+Crud Heladeria
+Un cliente dueño de una heladería nos pide una aplicación para su negocio.
+Se desarrollará una vista vendedor.
+Cuenta con 6 recipientes cuyo precio figura en la respectiva imagen.
+Cuenta con los gustos que figuran en la respectiva imagen.
+Nos pide realizar un ticket para cada cliente, podrá comprar todo los helados que quiera.
+Se desarrollará una vista administracion.
+Calcular el total de las ventas del día.
+Calcular un ranking de los gustos vendidos (por unidad elegida, no peso).
+Calcular un ranking de los recipientes vendidos.
+
+Restricciones:
+Del menor a mayor tamaño, límite de cantidad de gustos.
+Recipiente 1: 2 gustos.
+Recipiente 2: 2 gustos.
+Recipiente 3: 3 gustos.
+Recipiente 4: 3 gustos.
+Recipiente 5: 4 gustos.
+Recipiente 6: 4 gustos.
+
+Usar matrices y funciones
